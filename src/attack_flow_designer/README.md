@@ -30,3 +30,5 @@ Run:
 ```
 docker run --name milanko -p 8888:80 -d attack-flow-designer:current
 ```
+
+and visit [http://localhost:8888/](http://localhost:8888/) afterwards.
